@@ -1,4 +1,4 @@
-const index = () => (
+const Index = () => (
     <div>
         <p>
             Sample app using react and node.
@@ -6,4 +6,4 @@ const index = () => (
     </div>
 )
 
-export default index;
+export default Index;
